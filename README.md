@@ -1,0 +1,1 @@
+This is game Hangman (see this : https://www.gamestolearnenglish.com/hangman/). player has to gess word, if he/she presses wrong letter new part of hangman appeared, if player makes 7 mistakes game is lost, or if word will be guessed hangman will survive :))
